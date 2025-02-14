@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Badis !  
 
-<!--
-**B10-Stiti/B10-Stiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 **CS Student @ ISAMM**  
+💡 Passionate about **problem-solving**
 
-Here are some ideas to get you started:
+## 💻 Tech & Tools 
+🔹 **Languages:** Python | Java | C  
+🔹 **Databases:** Oracle | SQL | PL/SQL  
+🔹 **Backend:** Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Competitive Programming  
+👨‍💻 **President @ ISAMM Problem-Solving Club** <br>
+🏅 **Pupil @ Codeforces** → [Be10](https://codeforces.com/profile/Be10)
+
+
+## 📫 Let's Connect!
+💼 **LinkedIn:** [Badis Stiti](https://www.linkedin.com/in/be10/)  
+📧 **Email:** badisstiti11@gmail.com 
+
+---
+🔥 *Always learning, always improving!* 🚀  
