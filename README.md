@@ -17,6 +17,3 @@
 ## 📫 Let's Connect!
 💼 **LinkedIn:** [Badis Stiti](https://www.linkedin.com/in/be10/)  
 📧 **Email:** badisstiti11@gmail.com 
-
----
-🔥 *Always learning, always improving!* 🚀  
