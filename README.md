@@ -9,7 +9,7 @@
 
 ## 💻 Technical Skills
 
-**Programming Languages:** Python | Java | JavaScript | Go | SQL | C++
+**Programming Languages:** Python | Java | JavaScript | Go | SQL | C++  
 **Full-Stack Development:** React | Tailwind CSS | Node.js | Express.js | GoLang  
 **Databases:** PostgreSQL | Oracle (PL/SQL) | MongoDB  
 **Tools & Collaboration:** Git/GitHub | Docker
